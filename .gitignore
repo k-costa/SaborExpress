@@ -1,0 +1,15 @@
+# Ignora arquivos específicos de aulas
+aula1_primeiro_programa.py
+aula2_boas_praticas.py
+aula3_interpolacao_de_String.py
+aula4_if_else.py
+aula5_tipo_int_e_bool.py
+aula6_funcoes_e_import.py
+aula7_aprofundando_em_funcoes.py
+aula8_try_except.py
+aula9_listas.py
+aula10_laco_de_repeticao_for.py
+aula11_refatorando_o_codigo.py
+aula12_dicionarios.py
+aula13_atualizando_cadastro.py
+aula14_ativando_restaurantes.py
